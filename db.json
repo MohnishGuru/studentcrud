@@ -1,0 +1,121 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Stud": [
+    {
+      "id": "1",
+      "name": "Mohanish Guru",
+      "email": "mohanish@gmail.com",
+      "mob": "5965665464",
+      "adress": "At Post Kothati",
+      "city": "Nagpur",
+      "pincode": "442701"
+    },
+    {
+      "id": "2",
+      "name": "Rutuja",
+      "email": "rutuja_patil@gmail.com",
+      "mob": "9876543210",
+      "adress": "Near Shivaji Chowk, Main Road",
+      "city": "Pune",
+      "pincode": "411001"
+    },
+    {
+      "id": "3",
+      "name": "Vaibhav",
+      "email": "vaibhav.kadam@gmail.com",
+      "mob": "9922458790",
+      "adress": "Plot No. 24, Trimurti Nagar",
+      "city": "Nagpur",
+      "pincode": "440022"
+    },
+    {
+      "id": "4",
+      "name": "Gaurav",
+      "email": "gaurav_mane@gmail.com",
+      "mob": "8787878787",
+      "adress": "Shastri Nagar, Lane No. 3",
+      "city": "Nashik",
+      "pincode": "422003"
+    },
+    {
+      "id": "5",
+      "name": "Sneha",
+      "email": "sneha.more@gmail.com",
+      "mob": "9090909090",
+      "adress": "Shiv Colony, Near Bus Stand",
+      "city": "Aurangabad",
+      "pincode": "431001"
+    },
+    {
+      "id": "7",
+      "name": "Komal",
+      "email": "komal.chaudhari@gmail.com",
+      "mob": "9823564789",
+      "adress": "Sadar Bazaar, Opposite SBI Bank",
+      "city": "Amravati",
+      "pincode": "444601"
+    },
+    {
+      "id": "9",
+      "name": "Pooja",
+      "email": "pooja.shinde@gmail.com",
+      "mob": "9765432109",
+      "adress": "New Colony, Beside Petrol Pump",
+      "city": "Kolhapur",
+      "pincode": "416003"
+    },
+    {
+      "id": "10",
+      "name": "Sanket",
+      "email": "sanket.jadhav@gmail.com",
+      "mob": "9898989898",
+      "adress": "Sector 12, Near Garden View",
+      "city": "Mumbai",
+      "pincode": "400037"
+    },
+    {
+      "id": "4602",
+      "name": "Shubham",
+      "email": "Shubham@gmail.com",
+      "mob": "9359755",
+      "adress": "Flat no 1010,colony ,kothrud,pune",
+      "city": "Pune",
+      "pincode": "441104"
+    },
+    {
+      "id": 0,
+      "name": "dffq",
+      "email": "jnjh",
+      "mob": "jjjhj",
+      "adress": "jhih",
+      "city": "bbb",
+      "pincode": "999"
+    }
+  ]
+}
